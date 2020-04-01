@@ -1,1 +1,1 @@
-# variation_of_moving_mass_-cpp-
+# Variation of Moving Mass - using C++
