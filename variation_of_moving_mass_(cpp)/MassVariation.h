@@ -10,5 +10,5 @@ class MassVariation {
     MassVariation();
 
     bool getData(float, float);
-    float getMass();
+    float showMass();
 };

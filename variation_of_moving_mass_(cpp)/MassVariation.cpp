@@ -16,10 +16,10 @@ bool MassVariation::getData(float massInit, float velocity) {
     if (denom > 0) {
         return true;
     } else {
-        false;
+        return false;
     }
 }
 
-float MassVariation::getMass() {
+float MassVariation::showMass() {
     return this->mass;
 }
